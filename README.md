@@ -1,4 +1,4 @@
-#Analyzing Baseball Data with R
+# Analyzing Baseball Data with R
 
 Companion to Analyzing Baseball Data with R.
 
